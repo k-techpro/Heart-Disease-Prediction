@@ -1,6 +1,6 @@
 # ❤️ Heart Disease Prediction using Machine Learning
 
-## 📌 Project Overview
+## 📌 Project Overview Created by **kombaiya** **k-techpro**
 This project predicts whether a patient is likely to have heart disease using machine learning techniques.  
 It uses clinical parameters from a heart disease dataset and applies a Random Forest Classifier to perform binary classification.
 
@@ -55,3 +55,4 @@ The dataset contains medical attributes related to patients, such as:
 ### 1. Install required libraries
 ```bash
 pip install -r requirements.txt
+
